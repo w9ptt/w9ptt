@@ -4,7 +4,7 @@
 
 # w9ptt
 
-C++, C# Python, ImGui.
+C++, C#, Python, ImGui.
 
 I build tools, game utilities, and UI.
 
