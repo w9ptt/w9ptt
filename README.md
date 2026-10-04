@@ -6,6 +6,8 @@
 
 C++, C#, Python, ImGui.
 
+I build tools, game utilities, and UI.
+
 <br/>
 
 <img src="assets/cpp.svg" width="36" height="36" alt="C++" />
