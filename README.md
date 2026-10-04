@@ -16,7 +16,6 @@ C++, C#, Python, ImGui.
 &nbsp;&nbsp;&nbsp;
 <img src="assets/python.svg" width="36" height="36" alt="Python" />
 &nbsp;&nbsp;&nbsp;
-
 <br/><br/>
 <div data-importer="socials" align="center">
   <a href="https://discord.com/users/6966996669">
